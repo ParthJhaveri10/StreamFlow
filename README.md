@@ -1,4 +1,4 @@
-# 🎬 StreanFlow
+# 🎬 StreamFlow
 
 ## 🚀 Overview
 
